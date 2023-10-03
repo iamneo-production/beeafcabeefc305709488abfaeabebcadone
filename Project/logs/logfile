@@ -1,0 +1,13 @@
+[INFO] 2023-10-03 07:38:01,778 pages.BusPage Source - Clicked Source Inputbox
+[INFO] 2023-10-03 07:38:02,508 pages.BusPage Source - Value passed: Bangalore
+[INFO] 2023-10-03 07:38:03,851 pages.BusPage Source - Selected the desired suggestion: Bangalore
+[INFO] 2023-10-03 07:38:04,653 pages.BusPage Destination - Clicked To Inputbox
+[INFO] 2023-10-03 07:38:05,244 pages.BusPage Destination - Value passed: Coimbatore
+[INFO] 2023-10-03 07:38:06,572 pages.BusPage Destination - Selected the desired suggestion: Coimbatore
+[INFO] 2023-10-03 07:38:07,275 pages.BusPage Datepicker - Clicked Datepicker
+[INFO] 2023-10-03 07:38:09,219 pages.BusPage Datepicker - Clicked Current Date
+[INFO] 2023-10-03 07:38:11,442 pages.BusPage Search_btn - Clicked Search Button
+[INFO] 2023-10-03 07:38:14,821 runner.Testcase3 Buspg2 - Testcase3 passed Successfully
+[INFO] 2023-10-03 07:38:21,190 pages.TrainsPage Train_check - Clicked Homepage/Trains
+[INFO] 2023-10-03 07:38:21,228 pages.TrainsPage Train_check - Assert Successfull
+[INFO] 2023-10-03 07:38:26,807 pages.TrainsPage Train_check - Navigated Back To Homepage
